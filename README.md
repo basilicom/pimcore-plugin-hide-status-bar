@@ -1,7 +1,7 @@
 HideStatusBar Pimcore Plugin
 ================================================
 
-[![Codacy Badge](https://www.codacy.com/project/badge/fd29fac5440e4fb2a06dcbb365cc6698)](https://www.codacy.com)
+[![Codacy Badge](https://www.codacy.com/project/badge/fd29fac5440e4fb2a06dcbb365cc6698)](https://www.codacy.com/public/basilicom/pimcorepluginhidestatusbar)
 [![Dependency Status](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3)
 
 ## Synopsis
