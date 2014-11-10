@@ -3,6 +3,8 @@ HideStatusBar Pimcore Plugin
 
 [![Codacy Badge](https://www.codacy.com/project/badge/fd29fac5440e4fb2a06dcbb365cc6698)](https://www.codacy.com/public/basilicom/pimcorepluginhidestatusbar)
 [![Dependency Status](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-hide-status-bar/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-hide-status-bar/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-hide-status-bar/badges/build.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-hide-status-bar/build-status/master)
 
 Developer info: [Pimcore at basilicom](http://basilicom.de/en/pimcore)
 
