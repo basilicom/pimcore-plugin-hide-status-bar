@@ -1,3 +1,9 @@
+HideStatusBar Pimcore Plugin
+================================================
+
+[![Codacy Badge](https://www.codacy.com/project/badge/fd29fac5440e4fb2a06dcbb365cc6698)](https://www.codacy.com)
+[![Dependency Status](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22beeb8df292d50000d3)
+
 ## Synopsis
 
 This Pimcore <http://www.pimcore.org> plugin modifies the
@@ -6,7 +12,9 @@ status bar anymore.
 
 ## Code Example / Method of Operation
 
-The status bar is simply hidden via $('#pimcore_statusbar').hide();
+The status bar is simply hidden via:
+
+    $('#pimcore_statusbar').hide();
 
 ## Motivation
 
