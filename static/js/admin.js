@@ -1,4 +1,4 @@
-pimcore.registerNS("pimcore.plugin.hideStatusBar");
+pimcore.registerNS('pimcore.plugin.hideStatusBar');
 
 /**
  * HideStatusBar Plugin
@@ -11,7 +11,7 @@ pimcore.plugin.hideStatusBar = Class.create(pimcore.plugin.admin, {
      * @returns {string}
      */
     getClassName: function() {
-        return "pimcore.plugin.hideStatusBar";
+        return 'pimcore.plugin.hideStatusBar';
     },
 
     /**
@@ -27,7 +27,7 @@ pimcore.plugin.hideStatusBar = Class.create(pimcore.plugin.admin, {
      * @param broker
      */
     pimcoreReady: function (params,broker){
-        var user = pimcore.globalmanager.get("user");
+        var user = pimcore.globalmanager.get('user');
 
         if(!user.admin) {
             $('#pimcore_statusbar').hide();
